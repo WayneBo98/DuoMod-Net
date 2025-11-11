@@ -11,9 +11,8 @@ This repository provides the official implementation for our paper, "Rethinking 
 ### 1.1. Clone Repository
 
 ```bash
-git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
-cd [your-repo-name]
-```
+git clone [https://github.com/WayneBo98/DuoMod-Net.git](https://github.com/WayneBo98/DuoMod-Net.git)
+cd DuoMod-Net
 
 ### 1.2. Environment Setup
 
