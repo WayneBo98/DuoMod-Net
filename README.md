@@ -13,7 +13,7 @@ This repository provides the official implementation for our paper, "Rethinking 
 ```bash
 git clone [https://github.com/WayneBo98/DuoMod-Net.git](https://github.com/WayneBo98/DuoMod-Net.git)
 cd DuoMod-Net
-
+'''
 ### 1.2. Environment Setup
 
 建议使用 `conda` 或 `venv` 创建虚拟环境。
