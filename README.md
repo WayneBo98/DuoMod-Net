@@ -1,4 +1,4 @@
-# [Your-Project-Name]: [A brief description of your project, e.g., 3D Medical Image Segmentation on AMOS]
+# [DuoMod-Net]: [Rethinking Class Imbalanced Semi-supervised Medical Image Segmentation]
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-red.svg)](https://pytorch.org/)
